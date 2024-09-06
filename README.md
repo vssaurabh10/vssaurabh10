@@ -1,16 +1,70 @@
-## Hi there 👋
 
-<!--
-**vssaurabh10/vssaurabh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Saurabh Vishwakarma</h1>
+<h3 align="center">I am a Student and frontend developer</h3>
 
-Here are some ideas to get you started:
+- 🎓 I’m currently learning **Web Development (MERN)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 How to reach me **vs_saurabh10@gmail.com**
+
+<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> Connect with me </h1>
+
+<table align="" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.linkedin.com/in/vssaurabh10/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+    <td align="center" widht=90>
+        <a href="https://x.com/vs_saurabh10?s=09" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+        <br>Twitter
+    </td>
+  </tr>
+</table>
+
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Languages & Tools </h1>
+
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" widht="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
+      <br>Git
+    </td>
+    <td align="center" widht=90>
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vssaurabh10&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false">
+<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vssaurabh10&theme=highcontrast&hide_border=true"> -->
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vaibhavKesarwani" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
+  </a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
