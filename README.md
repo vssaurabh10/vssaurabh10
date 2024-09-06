@@ -7,7 +7,7 @@
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> Connect with me </h1>
 
-<table align="" class="table table-dark">
+<table align="center" class="table table-light">
   <tr bg-dark>
     <td align="center" widht=90>
         <a href="https://www.linkedin.com/in/vssaurabh10/" target="_blank">
@@ -26,7 +26,7 @@
 
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Languages & Tools </h1>
 
-<table align="center" class="table table-dark">
+<table align="center" class="table table-light">
   <tr bg-dark>
     <td align="center" widht="90">
       <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
