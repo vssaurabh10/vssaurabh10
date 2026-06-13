@@ -1,9 +1,9 @@
 <h1 align="center"><!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> --> Hi there, I'm <a href="https://www.linkedin.com/in/vssaurabh10/">Saurabh Vishwakarma</a> </h1>
 <h3 align="center">I am a Student and frontend developer</h3>
 
-- 🎓 I’m currently learning **Web Development (MERN)**
+- 🎓 I’m currently learning **FULL STACK DEVELOPMENT (JAVA)**
 
-- 📧 How to reach me **vs_saurabh10@gmail.com**
+- 📧 How to reach me **vs.saurabh10@gmail.com**
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> Connect with me </h1>
 
