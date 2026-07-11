@@ -26,19 +26,34 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="120">
 <a href="https://www.linkedin.com/in/vssaurabh10/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>
+<b>LinkedIn</b>
 </a>
+</td>
 
-<a href="https://x.com/vs_saurabh10" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+<td align="center" width="120">
+<a href="https://github.com/vssaurabh10" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<b>GitHub</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="mailto:vs.saurabh10@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>
+<b>Gmail</b>
 </a>
-</p>
+</td>
+
+<td align="center" width="120">
+<a href="https://x.com/vs_saurabh10" target="_blank">
+<img src="https://cdn.simpleicons.org/x" width="50"/><br>
+<b>X (Twitter)</b>
+</a>
 
 ---
 
