@@ -28,28 +28,28 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
 
 <table align="center">
 <tr>
-<td align="center" width="120">
+<td align="center" width="100">
 <a href="https://www.linkedin.com/in/vssaurabh10/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>
 <b>LinkedIn</b>
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="100">
 <a href="https://github.com/vssaurabh10" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
 <b>GitHub</b>
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="100">
 <a href="mailto:vs.saurabh10@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>
 <b>Gmail</b>
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="100">
 <a href="https://x.com/vs_saurabh10" target="_blank">
 <img src="https://cdn.simpleicons.org/x" width="50"/><br>
 <b>X (Twitter)</b>
