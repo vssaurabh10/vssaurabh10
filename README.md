@@ -95,12 +95,19 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring Boot
 </td>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=maven" width="50"/><br>Maven
 </td>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=hibernate" width="50"/><br>Hibernate
 </td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/junit5/25A162" width="50"/><br>JUnit 5
+</td>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>REST APIs
 </td>
@@ -152,7 +159,7 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
 <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
 </td>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=render" width="50"/><br>Render
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="50"/><br>Render
 </td>
 </tr>
 </table>
@@ -166,8 +173,6 @@ AI-powered Mock Interview Platform built using React.js, Spring Boot, Spring Sec
 A full-stack property rental platform with secure authentication, property management, booking features, and responsive UI.
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Statistics
 
