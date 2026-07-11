@@ -44,37 +44,118 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C
+</td>
+</tr>
+</table>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,vite" />
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap
+</td>
+</tr>
+</table>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs" />
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring Boot
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=maven" width="50"/><br>Maven
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=hibernate" width="50"/><br>Hibernate
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>REST APIs
+</td>
+</tr>
+</table>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase
+</td>
+</tr>
+</table>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux,vercel,render" />
-</p>
-
----
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=idea" width="50"/><br>IntelliJ IDEA
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=render" width="50"/><br>Render
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -88,14 +169,16 @@ A full-stack property rental platform with secure authentication, property manag
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vssaurabh10&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vssaurabh10&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vssaurabh10&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vssaurabh10&theme=github-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vssaurabh10&theme=github-dark&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vssaurabh10&layout=compact&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vssaurabh10&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vssaurabh10&theme=github_dark"/>
 </p>
 
 ---
@@ -104,14 +187,6 @@ A full-stack property rental platform with secure authentication, property manag
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vssaurabh10&theme=github-dark"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vssaurabh10&theme=onedark&margin-w=15&margin-h=15"/>
 </p>
 
 ---
