@@ -166,14 +166,6 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
 </tr>
 </table>
 
-## 🚀 Featured Projects
-
-### 🤖 MockMaster
-AI-powered Mock Interview Platform built using React.js, Spring Boot, Spring Security, MySQL, MediaPipe, Gemini API, and Web Speech API.
-
-### 🏠 ApexHaven
-A full-stack property rental platform with secure authentication, property management, booking features, and responsive UI.
-
 ---
 
 ## 📊 GitHub Statistics
