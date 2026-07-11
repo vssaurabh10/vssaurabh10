@@ -1,73 +1,129 @@
-<h1 align="center"><!-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> --> Hi there, I'm <a href="https://www.linkedin.com/in/vssaurabh10/">Saurabh Vishwakarma</a> </h1>
-<h3 align="center">I am a Student and frontend developer</h3>
+<h1 align="center">
+  Hi 👋, I'm <a href="https://www.linkedin.com/in/vssaurabh10/">Saurabh Vishwakarma</a>
+</h1>
 
-- 🎓 I’m currently learning **FULL STACK DEVELOPMENT (JAVA)**
-
-- 📧 How to reach me **vs.saurabh10@gmail.com**
-
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> Connect with me </h1>
-
-<table align="center" class="table table-light">
-  <tr bg-dark>
-    <td align="center" widht=90>
-        <a href="https://www.linkedin.com/in/vssaurabh10/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      <br>Linkedin
-    </td>
-    <td align="center" widht=90>
-        <a href="https://x.com/vs_saurabh10?s=09" target="_blank">
-            <img src="https://skillicons.dev/icons?i=twitter" />
-        </a>
-        <br>Twitter
-    </td>
-  </tr>
-</table>
-
-<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Languages & Tools </h1>
-
-<table align="center" class="table table-light">
-  <tr bg-dark>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
-    </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="md" />
-      <br>Git
-    </td>
-    <td align="center" widht=90>
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="53" height="53" />GitHub Stats </h1>
-<div align="center">
-
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vssaurabh10&theme=highcontrast">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=vssaurabh10&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false">
-<!-- <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vssaurabh10&theme=highcontrast&hide_border=true"> -->
-</div>
-<hr>
+<h3 align="center">
+💻 Java Full Stack Developer | Spring Boot | React.js | Open to Full-Time Opportunities
+</h3>
 
 <p align="center">
-  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+Passionate about building scalable web applications with Java, Spring Boot, React.js, and modern web technologies.
+I enjoy solving real-world problems, learning new technologies, and writing clean, maintainable code.
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Graduate in **Computer Science & Engineering (AI & ML)**
+- 💼 Seeking **Java Full Stack Developer** opportunities
+- 🌱 Currently strengthening my skills in **Spring Boot, Microservices, System Design, and Cloud**
+- 💡 Interested in Backend Development, REST APIs, and Scalable Systems
+- 👨‍💻 Check out my repositories to see my projects
+- 📫 Reach me at **vs.saurabh10@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://buymeacoffee.com/Saurabhvishwakarma" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160"/>
-  </a>
+<a href="https://www.linkedin.com/in/vssaurabh10/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://x.com/vs_saurabh10" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+
+<a href="mailto:vs.saurabh10@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate,nodejs" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux,vercel,render" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 MockMaster
+AI-powered Mock Interview Platform built using React.js, Spring Boot, Spring Security, MySQL, MediaPipe, Gemini API, and Web Speech API.
+
+### 🏠 ApexHaven
+A full-stack property rental platform with secure authentication, property management, booking features, and responsive UI.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vssaurabh10&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vssaurabh10&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vssaurabh10&theme=github-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vssaurabh10&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vssaurabh10&theme=github-dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vssaurabh10&theme=onedark&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 💬 Quote
+
+> *"Code. Learn. Build. Improve. Repeat."*
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
