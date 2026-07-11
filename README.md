@@ -40,9 +40,6 @@ I enjoy solving real-world problems, learning new technologies, and writing clea
   <a href="https://x.com/vs_saurabh10">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
 </p>
 
 ---
